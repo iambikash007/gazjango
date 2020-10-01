@@ -2,7 +2,7 @@ This is the source for the [Daily Gazette](http://daily.swarthmore.edu)'s websit
 
 Here's how you can set it up for dev access.
 
-If you don't work for the Gazette, you're welcome to check out the code (obviously), but you won't have access to the database files and whatnot.
+If you don't work for the Gazette, you're welcome to check out the code (obviously), but you won't have access to the database files and what not.
 
 Make sure you have Python (2.5, 2.6, or 2.7), Django, MySQL, MySQLdb, and the PIL installed.
 
